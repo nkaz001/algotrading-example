@@ -1,6 +1,6 @@
 # Algorithmic trading backtests
 
-![](https://preview.redd.it/o6qk8x8eyia61.png?width=453&format=png&auto=webp&s=b7333db4e54b1109314a90c6c67ccdc784a9e71c)
+![](https://raw.githubusercontent.com/nkaz001/market-making-backtest/master/readme/xbtusd-vanila-market-making-backtest.png)
 
 ## References
 
