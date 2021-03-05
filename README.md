@@ -1,6 +1,7 @@
 # Algorithmic trading backtests
 
-![](https://preview.redd.it/o6qk8x8eyia61.png?width=453&format=png&auto=webp&s=b7333db4e54b1109314a90c6c67ccdc784a9e71c)
+![](hhttps://github.com/nkaz001/market-making-backtest/blob/master/readme/xbtusd-vanila-market-making-backtest.png)
+![](hhttps://github.com/nkaz001/market-making-backtest/blob/master/readme/xbtusd-vanila-market-making-backtest2.png)
 
 ## References
 
@@ -24,3 +25,19 @@ https://github.com/BitMEX/sample-market-maker
 ## Implementation
 
 https://github.com/nkaz001/sample-market-maker
+
+## Data
+
+### Crypto
+https://www.tardis.dev  
+https://www.kaiko.com  
+
+### Exchanges
+http://db-ec.jpx.co.jp/category/C440/  
+https://www.hkex.com.hk/eng/ods/historicalData.aspx  
+https://datamine.cmegroup.com/#/datasets/cme.mbo  
+
+### Vendors
+https://www.algoseek.com  
+https://www.dxfeed.com  
+http://www.tickdatamarket.com  
