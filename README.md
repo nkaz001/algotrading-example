@@ -1,7 +1,6 @@
 # Algorithmic trading backtests
 
-![](hhttps://github.com/nkaz001/market-making-backtest/blob/master/readme/xbtusd-vanila-market-making-backtest.png)
-![](hhttps://github.com/nkaz001/market-making-backtest/blob/master/readme/xbtusd-vanila-market-making-backtest2.png)
+![](https://github.com/nkaz001/market-making-backtest/blob/master/readme/xbtusd-vanila-market-making-backtest-hedge.png)
 
 
 ## References
@@ -16,6 +15,7 @@ https://www.reddit.com/r/algotrading/comments/k4x9ft/we_all_know_moving_average_
 https://www.reddit.com/r/algotrading/comments/ivi8sc/brief_guide_on_researching_strategies_and/  
 https://miltonfmr.com/how-to-develop-test-and-optimize-a-trading-strategy-complete-guide/  
 https://www.reddit.com/r/quant/comments/kmdnty/open_source_hft_market_maker_bot_for_crypto (Lehalle)  
+https://www.reddit.com/r/algotrading/comments/ljrexf/forward_testing_bitcoin_strategy_based_on/  
 https://github.com/hello2all/gamma-ray  
 
 ### BitMEX
@@ -33,7 +33,7 @@ https://github.com/nkaz001/sample-market-maker
 https://www.tardis.dev  
 https://www.kaiko.com  
 
-### Exchanges
+### Futures Exchanges
 http://db-ec.jpx.co.jp/category/C440/  
 https://www.hkex.com.hk/eng/ods/historicalData.aspx  
 https://datamine.cmegroup.com/#/datasets/cme.mbo  
