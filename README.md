@@ -1,10 +1,10 @@
 # Algorithmic trading backtests
 
 ## xbtusd-vanila-market-making-backtest-hedge
-![](https://github.com/nkaz001/market-making-backtest/blob/master/readme/xbtusd-vanila-market-making-backtest-hedge.png)
+![](https://github.com/nkaz001/algotrading-example//blob/master/readme/xbtusd-vanila-market-making-backtest-hedge.png)
 
 ## xbtusd-weighted-depth-orderbook-price-simple-backtest-hedge
-![](https://github.com/nkaz001/market-making-backtest/blob/master/readme/xbtusd-weighted-depth-orderbook-price-simple-backtest-hedge.png)
+![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-weighted-depth-orderbook-price-simple-backtest-hedge.png)
 
 ## References
 
