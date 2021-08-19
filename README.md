@@ -1,11 +1,11 @@
 # Algorithmic trading backtests
 Full examples of algorithmic trading for Bitcoin using order book imbalances computed with a deeper level.
 
-**Newly optimized in June 2021. Please see the notebook about the results using the previous parameters.**  
+You can see all previous optimized parameters in the notebook and commit history.
 
-## xbtusd-vanila-market-making-backtest-hedge
-![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-vanila-market-making-backtest-hedge-new-taker.png)
-![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-vanila-market-making-backtest-hedge-new-maker.png)
+## xbtusd-normalization-market-making-backtest-hedge
+![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-normalization-market-making-backtest-hedge-new-taker.png)
+![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-normalization-market-making-backtest-hedge-new-maker.png)
 
 ## xbtusd-weighted-depth-orderbook-price-simple-backtest-hedge
 ![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-weighted-depth-orderbook-price-simple-backtest-hedge-new-taker.png)
