@@ -1,3 +1,9 @@
 [submodule "data-tardis"]
 	path = data-tardis
 	url = https://github.com/nkaz001/data-tardis.git
+[submodule "bot-bitmex"]
+	path = bot-bitmex
+	url = https://github.com/nkaz001/sample-market-maker
+[submodule "bot-binancefutures"]
+	path = bot-binancefutures
+	url = https://github.com/nkaz001/sample-trading-bot
