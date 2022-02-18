@@ -1,8 +1,6 @@
 # Algorithmic trading backtests
-Full examples of algorithmic trading for Bitcoin using order book imbalances computed with a deeper level inspired by some articles on the internet(reference link as follows).  
+Full examples of algorithmic trading for Bitcoin using order book imbalances computed with a deeper level inspired by some articles(reference link as follows).  
 This example covers from the backtest to the trading bot implementation based on different kinds of order book imbalance strategies for BitMEX and Binance Futures.  
-
-This strategies show a better risk reward ratio even though the Buy-and-Hold has a higher cumulative return.  
 
 You can see all previous optimized parameters in the notebook and commit history.
 
