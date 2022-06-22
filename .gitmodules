@@ -7,3 +7,6 @@
 [submodule "bot-binancefutures"]
 	path = bot-binancefutures
 	url = https://github.com/nkaz001/sample-trading-bot
+[submodule "gridtrading"]
+	path = gridtrading
+	url = https://github.com/nkaz001/gridtrading
