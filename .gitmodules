@@ -10,3 +10,6 @@
 [submodule "gridtrading"]
 	path = gridtrading
 	url = https://github.com/nkaz001/gridtrading
+[submodule "collect-binancefutures"]
+	path = collect-binancefutures
+	url = https://github.com/nkaz001/collect-binancefutures.git
