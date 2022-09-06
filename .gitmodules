@@ -13,3 +13,6 @@
 [submodule "collect-binancefutures"]
 	path = collect-binancefutures
 	url = https://github.com/nkaz001/collect-binancefutures.git
+[submodule "hftbacktest"]
+	path = hftbacktest
+	url = https://github.com/nkaz001/hftbacktest
