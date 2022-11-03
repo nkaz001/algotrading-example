@@ -4,20 +4,14 @@ This example covers from the backtest to the trading bot implementation based on
 
 You can see all previous optimized parameters in the notebook and commit history.
 
-## btcusdt-standardization-simple-backtest
-![](https://github.com/nkaz001/algotrading-example/blob/master/readme/btcusdt-standardization-simple-backtest.png)
-
 ## btcusdt-standardization-market-making-backtest
 ![](https://github.com/nkaz001/algotrading-example/blob/master/readme/btcusdt-standardization-market-making-backtest.png)
 
-## xbtusd-strategy-portfolio
-![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-strategy-portfolio-maker.png)
+## btcusdt-standardization-simple-backtest
+![](https://github.com/nkaz001/algotrading-example/blob/master/readme/btcusdt-standardization-simple-backtest.png)
 
-## xbtusd-normalization-market-making-backtest-hedge
-![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-normalization-market-making-backtest-hedge-new-maker.png)
-
-## xbtusd-weighted-depth-orderbook-price-simple-backtest-hedge
-![](https://github.com/nkaz001/algotrading-example/blob/master/readme/xbtusd-weighted-depth-orderbook-price-simple-backtest-hedge-new-maker.png)
+## btcusdt-strategy-portfolio
+![](https://github.com/nkaz001/algotrading-example/blob/master/readme/btcusdt-strategy-portfolio.png)
 
 ## References
 
