@@ -1,3 +1,5 @@
+# Project moved to https://github.com/nkaz001/hftbacktest
+
 # Algorithmic trading backtests
 Full examples of algorithmic trading for Bitcoin using order book imbalances computed with a deeper level inspired by some articles(reference link as follows).  
 This example covers from the backtest to the trading bot implementation based on different kinds of order book imbalance strategies for BitMEX and Binance Futures.  
